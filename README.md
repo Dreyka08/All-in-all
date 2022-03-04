@@ -1,5 +1,5 @@
 # Меню
-1) [ChislennieMethods](CM) -- Числовые методы
+1) [ЧМ](https://github.com/Dreyka08/All-in-all/tree/main/ChislennieMethods) -- Числовые методы
 2) Базы данных
 3) Немецкий
 4) Дискретный анализ
